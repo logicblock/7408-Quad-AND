@@ -7873,7 +7873,7 @@ Source: AVX .. aphvc.pdf</description>
 <text x="171.45" y="5.08" size="2.54" layer="94" font="vector">v1.1</text>
 <text x="112.268" y="10.16" size="3.175" layer="94" font="vector" align="bottom-center">More info at
 www.logicblock.me</text>
-<text x="91.44" y="115.57" size="6.4516" layer="94" font="vector" align="center">Logic Block 4308</text>
+<text x="91.44" y="115.57" size="6.4516" layer="94" font="vector" align="center">Logic Block 7408</text>
 <text x="92.71" y="106.68" size="3.81" layer="94" font="vector" align="center">quad 2-input AND gate</text>
 <text x="45.72" y="9.144" size="2.54" layer="94" align="bottom-center">Logic Block project are licenced under Creative 
 Commons  Attribution  and  Share  Alike  4.0 
